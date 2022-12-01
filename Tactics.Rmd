@@ -1,0 +1,187 @@
+---
+title: "Tactics"
+author: "Sebastian Salomon"
+github:
+  user: timelyportfolio
+  repo: rCharts_nyt_home_price
+  branch: "gh-pages"
+output:
+  html_document:
+    df_print: paged
+mode: selfcontained
+widgets: nyt_home
+highlighter: prettify
+hitheme: "twitter-bootstrap"
+assets:
+  css:
+  - http://fonts.googleapis.com/css?family=Raleway:300
+  - http://fonts.googleapis.com/css?family=Oxygen
+framework: bootstrap
+---
+
+
+
+<style>
+body{
+  font-family: 'Oxygen', sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+}
+
+h1,h2,h3,h4 {
+  font-family: 'Raleway', sans-serif;
+}
+
+.container { width: 1000px; }
+h3 {
+  background-color: #D4DAEC;
+  text-indent: 100px; 
+}
+h4 {
+  text-indent: 100px;
+}
+
+g-table-intro h4 {
+  text-indent: 0px;
+}
+</style>
+
+
+# Tactics
+
+Intro to Marketing Math:
+- P&L's - Profit and loss statements
+- Price Elasticity- What happens to volume if price goes up/down
+- CLV- Lifetime value of customer
+- Cannibalization- When sales of one of your products comes at the expense of another product
+- Break-even Analysis- At what volume do you break even
+
+Tactics mainly focus on the 7-T framework
+- 7-T Framework: (Distribution, Price, Incentives, Product, Service, Branding, Communication)
+
+
+### Distribution & Pricing
+
+#### Distribution:
+
+Where we sell is important tactical decision that is shaped by goals, audience, and by the value proposition. 
+
+Think about distribution paths. Wholesalers need to create value for both manufacturers and retailers. 
+
+Distribution strategies range from exclusive to intensive, it is a tactical lever. Important to have clear goals, clear target, and a clear value proposition. 
+
+Collaborator Value- Modern businesses use collaborators through the design, communicate, and deliver tactical process. Consider value creation for collaborators, consider pros and cons when using a collaborator. and when it makes sense to do it yourself. 
+
+#### Pricing: 
+
+1. How to strategically think about pricing?
+- Customer Value: Does exchange create positive value (Is it worth the money?)
+- Competitive Value: Are we creating more value than the competitive offering?
+- Collaborator Value: Are we creating enough value for their needed support? (wholesalers, specialty stores)
+- Optimizing Company Value- Are we making money we need to?
+
+Marketing can be used to create more perceived value (Functional Value, Monetary Value, Psychological Value)
+
+2. How to use AI to think about pricing
+
+Price Discrimination- Utilized differences in price-sensitivity between customers to segment markets into distinct groups. Use Timing, Customer identification, quantity bought, commitment to buy, product form, channel data to segment the customers.
+With enough data you can deliver optimal profit maximizing price for each individual. Legal unless it's discriminatory. 
+
+
+#### Incentives:
+- Typically short-term action
+- Price incentives drive more immediate results than brand equity building
+
+
+### Product vs Services Management
+
+
+#### Product:
+
+Why do people buy:
+- Variety Seeking
+- Impulsive purchasing
+- Framing effects
+- Decision heuristics and biases
+- Emotional moods
+
+Take into account the difference between taste and fashion:
+- taste: an individual's attitude towards an aesthetic object
+- fashion: social construct made up of many people carrying same tastes at the same time
+
+Be cognizant of when to use AI and how to use it. Great for segmentation, recommendation, dynamic pricing, optimizing messaging and media. Not that great for predicting unknown future. AI capabilities in prescriptive analysis is not there yet, better to use it for descriptive analysis and for predictive only if you don't anticipate unkown factors. 
+
+#### Services:
+
+Know customer value but also customer's impact on other customers. 
+
+- Motivation to share experience
+- Social Influence
+- Likelihood of causing a behavioral change
+
+Leaders use principles of Empower, Inform, Motivate, and Control to help ensure employees are acting as management wants them to. 
+
+When talking about services we need to understand the experience people feel when using the product. Consumer expectations generally outpace firms' abilities. A dissatisfied customer can create exponential negative value. 
+
+Two things to keep in mind:
+
+- Transference of Experience Expectations- Consumer's expectations are rising based on their outside of your category experiences. Industries continue to compare themselves to their peers opening space for disruptive new entrants.
+- Satisfaction = (Experience Quality)/Expectations Manage both the quality and expectations to create satisfaction. Example - long waiting time at Disney but time to wait is actually shorter. 
+
+
+
+### Branding
+
+Strongest brands frequently have positioning that's true across continents. 
+Markets are different, so recognize the differences and adapt strategies and tactics to fit the following:
+
+- Different customer preferences and customer brand knowledge
+- Different competitive sets
+- Different cultural contexts
+
+Focus on Benefit Ladder to ensure purpose-driven branding:
+
+- Higher order value: (What core human value does it provide?
+- Emotional Benefit: What psychological need does it solve?
+- Functional Benefit: What does the product/service deliver? What functional need does it solve?
+- Features: Attribute, detail, objectively observable
+
+Great brands come to life from well-defined strategies through consistent and distinct personalities, visual identity, & voice
+
+The functional relevance of brands may diminish, but the psychological value will be increasingly important to 
+differentiate
+
+Branding Naming approaches:
+
+- Descriptive: Pros conveys a lot of info, Cons It's easily imitated
+- Evocative: Pros Once established it is a differentiated factor, Cons Requires support to build meaning behind brand
+
+### Communications
+
+The two most important tasks you’ll have as an executive that oversees marketing communication 
+
+1. Approving the communications strategy
+2. Approving the ad
+
+Primary tool for establishing the advertising strategy is the creative brief comprised of 6 steps:
+
+1. Objective- Goal the advertising or communication is meant to accomplish. ex- awareness, attitude shift. 
+2. Target- The audience intended to see or experience the execution
+3. Insight- A meaningful human truth about the target
+4. Position- Statement of the brand's category and benefit
+5. Execution- Personality, Mandatories, Timing, Budget, and media
+6. Measurement- How objective will be assessed in practice
+
+Evaluating Creative using ADPLAN tool:
+
+- Attention: Does the ad engage the audience?
+- Distinction: Is the execution unique in delivery?
+- Positioning: Appropriate category? Strong benefit?
+- Linkage: Will brand and benefit be remembered?
+- Amplification: Are thoughts of target favorable?
+- Net Equity: Does the ad fit with the brand heritage?
+
+
+
+
+

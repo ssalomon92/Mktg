@@ -1,0 +1,117 @@
+---
+title: "Goals"
+author: "Sebastian Salomon"
+github: {user: timelyportfolio, repo: rCharts_nyt_home_price, branch: "gh-pages"}
+framework: bootstrap
+mode: selfcontained
+widgets: nyt_home
+highlighter: prettify
+hitheme: "twitter-bootstrap"
+assets:
+  css:
+  - http://fonts.googleapis.com/css?family=Raleway:300
+  - http://fonts.googleapis.com/css?family=Oxygen
+---
+
+
+<style>
+body{
+  font-family: 'Oxygen', sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+}
+
+h1,h2,h3,h4 {
+  font-family: 'Raleway', sans-serif;
+}
+
+.container { width: 1000px; }
+h3 {
+  background-color: #D4DAEC;
+  text-indent: 100px; 
+}
+h4 {
+  text-indent: 100px;
+}
+
+g-table-intro h4 {
+  text-indent: 0px;
+}
+</style>
+
+
+## Marketing 101
+
+Marketing- Designing, communicating, and delivering solutions that create unique value for a set of customers and your organization.
+Marketing's goal- to create more value for a group of people than the competition so that they choose us. 
+Strategic marketing analysis is useful in developing a business strategy and solving business problems.
+
+3 Key questions in marketing:
+
+1. On which set of customers should we focus our firm’s energy and resources? (Segmentation & Targeting)
+2. What is our solution and why is it better? (Positioning)
+3. How do we tactically do this right?
+
+Marketing is manifested tactically by:
+
+- Designing solutions/offerings for our target
+- Communicating these solutions to our target
+- Delivering these solutions to our target
+
+
+
+
+### Buckley's Lessons
+
+<img src="https://drive.google.com/uc?export=view&id=1sMPOIjt89lHGdz4bT7HRqvk1gEQb7Bsf"
+     alt="sample image"
+     style="display: block; margin-right: auto; margin-left: auto; width: 90%;
+     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)" />
+
+
+- Have a clear goal to solve before starting solutions
+- Focus on segmentation and targeting. (By reformulating Buckley's was not differentiating from competition)
+- Focus on unique assets
+
+<br/>
+
+## Artificial Intelligence and Machine Learning
+ML is good at predicting and finding patterns. 
+There are three basic questions answered by machine learning (3x3 matrix):
+
+1. Descriptive (Using segmentation, clustering, classification)
+    - Ex1- What are the shared characteristics of customers?
+    - Ex2- What customer should we focus on first?
+    - Ex3- What different segments of viewers do we have?
+    - Ex4- What defines these segments?
+    - Great for personalization
+    - Data needed- Characteristics
+  
+2. Predictive (Using time series analysis, random forest, neural networks)
+    - Ex1- Which customers are most likely to react positively to treatment?
+    - Ex2- Which customers are more likely to leave, which are more likely to renew?
+    - Great for anticipation
+    - Data needed- Characteristics plus Outcomes
+  
+3. Prescriptive (A/B testing)
+    - Ex1- How can we incite customers to buy more?
+    - Ex2- How can we increase likelihood that customer will buy?
+    - Greate for influencing behavior
+    - Data needed- Characteristics plus Outcomes plus Action/Experiments
+  
+Data: 
+
+- 0 Party - Data a customer intentionally and proactively shares with a brand.
+- 1st Party - Collected, owned, and managed by firm that received it. 
+- 2nd Party - Data someone else collected taht they share with you.
+- 3rd Party - Data collected by firms about customers for targeting or measurement. 
+
+Watch for Selection/Sampling/Inherent biases.  
+  
+Idea Prioritization is useful to start tackling objectives. Rank ideas by potential value and by complexity/cost of implementation. Try to aim for ideas that are low in complexity and high in value.   
+
+
+### Disney 
+
+First find segmentation for Disney- households, male w/ no kids, females w/ kids. 
+Use info to predict content, subscriptions. ML is a tactical tool that can be used effectively if done strategically and it can be misleading if used poorly. ML optimizes for what it is told.

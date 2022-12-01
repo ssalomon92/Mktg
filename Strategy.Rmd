@@ -1,0 +1,147 @@
+---
+title: "Strategy"
+author: "Sebastian Salomon"
+github:
+  user: timelyportfolio
+  repo: rCharts_nyt_home_price
+  branch: "gh-pages"
+framework: bootstrap
+mode: selfcontained
+widgets: nyt_home
+highlighter: prettify
+hitheme: "twitter-bootstrap"
+assets:
+  css:
+  - http://fonts.googleapis.com/css?family=Raleway:300
+  - http://fonts.googleapis.com/css?family=Oxygen
+---
+
+
+
+<style>
+body{
+  font-family: 'Oxygen', sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+}
+
+h1,h2,h3,h4 {
+  font-family: 'Raleway', sans-serif;
+}
+
+.container { width: 1000px; }
+h3 {
+  background-color: #D4DAEC;
+  text-indent: 100px; 
+}
+h4 {
+  text-indent: 100px;
+}
+
+g-table-intro h4 {
+  text-indent: 0px;
+}
+</style>
+
+
+# Strategy
+
+Intro to Marketing Math:
+- P&L's - Profit and loss statements
+- Price Elasticity- What happens to volume if price goes up/down
+- CLV- Lifetime value of customer
+- Cannibalization- When sales of one of your products comes at the expense of another product
+- Break-even Analysis- At what volume do you break even
+
+
+### Creating Value & Goals
+
+Value: 
+
+When differences between firms diappear the only segment to compete becomes on price, this is not ideal. Ideal to find target segment and differentiate by addressing their specific needs. Does not necessarily have to be functional differentiation, ex- Renova.
+
+Importance of Goals:
+
+1. Establishing goals
+    - Prioritizes and focuss organizational effort/resources
+    - Inspire and guide day-to-day efforts of team members at all levels
+  
+2. Accepting goals
+    - Success is judgment based on evaluation of outcomes versus goals
+    - People who are seen as successful manage goals as rigorously as outcomes
+    
+Best Practices in Setting Goals:
+- Have a goal focus, can be monetary or non-monetary (ex: ROI, revenue, purchase frequency, attitude measurements)
+- Have performance benchmarks. Consider both: quantitative benchmark based on key metrics, and temporal benchmark based on time frame
+
+Paths to Grow: Penetration (Get new people to use product) & Usage (Get existing customers to use more)
+ 
+
+### Journeys & Situation Analysis
+
+How to do a Practical Journey Mapping.
+
+1. First go through stages that customers go through buying a product:
+  - Pre-Need & Trigger (Awareness)
+  - Consider/Evaluate
+  - Buying
+  - Using
+  - Post Evaluation/ Pre-Need
+
+2. Through each stage consider the customer's goals/needs and attitudes/beliefs, behaviors/touchpoints. 
+
+3. After doing this analysis layer in the marketing goals, and tie goals to measurable KPIs. 
+
+5Cs for Situation Analysis
+- Company (Consider strengths, weaknesses, and assets)
+- Competition (Identify and assess their strengths, weakness, and assets)
+- Context (External trends impacting market and broader world)
+- Collaborators (What partners do you rely on, are relationships optimized?)
+- Customers (Your target and knowledge of their needs, behaviors, attitudes)
+
+### Segmentation & Targeting
+
+2 Key questions:
+- Who is it for? 
+- Why is it better?
+
+To answer first question focus on segmentation and strategic targeting.
+
+Segmentation (could use cluster analysis):
+How to segment:
+- List: What are distinct groups you could serve that share similar needs
+- Describe: What do these segments look like
+
+Strategic Targeting
+- Which groups have most value for organization
+- Targeting requires tradeoffs, targeting some customers means not targeting others. 
+- Focus on providing superior value for target customers. 
+- Target customers must create enough value for company and collaborators to be profitable
+
+
+### Positioning
+
+Positioning statement should be a simple articulation of marketing strategy that defines competition, target, and solution. Need to make the prominent associations with our brand to be meaningful, different, and believable. 
+
+Frame of reference of your target customer is based on their other options. This is critical since:
+- Value is perceived by customers relative to competition
+- Frame of reference is critical in helping people understand new products
+- Defines who we need to beat with our solution
+
+Use DONE framework for positioning: 
+- Benefit DESIRED (what's meaningful in the brand)
+- Position can be OWNED (What's different from competition) 
+- NAVIGATE to brand promise (Is brand authentic/believable?)
+- Will position ENDURE (Longevity, is current position sustainable over time)
+
+Calyx strategy was targeting too large of a group and that was their problem. Should have targeted the segment of people who shared a need they could solve better than the competition. 
+
+
+
+
+
+
+
+
+
+
